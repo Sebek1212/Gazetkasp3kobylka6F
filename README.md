@@ -1,2 +1,4 @@
-# Gazetkasp3kobylka6F
-Gazetka klasy 6F
+# Gazetka sp3 kobylka 6F
+
+# ERROR 404
+ta strona nie istnieje lub została przeniesiona
