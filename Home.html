@@ -12,16 +12,21 @@
   <button>Aktualności</button><a href="https://sp3kobylka.pl/">
   <button>strona szkoły</button>
 <style>
-        
-        h1 {
-            color: rgb(0, 232, 15);
-        }  
-        
-        head {
-            background-color: rgb(97, 250, 255);
+        .top-bar {
+            height: 50px;             /* Wysokość paska */
+            background-color: red;    /* Kolor tła paska */
+            width: 100%;              /* Szerokość na całą stronę */
+            position: fixed;          /* Pasek przyklejony na górze */
+            top: 0;                   /* Ustawienie na samą górę */
+            left: 0;
+            z-index: 1000;            /* Żeby był na wierzchu */
         }
-            
-        </style>
+
+        body {
+            margin: 0;
+            padding-top: 50px;        /* Odstęp, żeby treść nie schowała się pod paskiem */
+        }
+    </style>
 </head>
 <body>
 	<header>
