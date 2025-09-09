@@ -1,2 +1,1 @@
- ERROR 404
-ta strona jest nie dostępna
+ERR 404
