@@ -6,6 +6,6 @@ themeToggle.addEventListener('click', () => {
   if (document.body.classList.contains('dark-mode')) {
     themeToggle.textContent = 'Tryb jasny';
   } else {
-    themeToggle.textContent = 'Tryb czarny';
+    themeToggle.textContent = 'Tryb ciemny';
   }
 });
